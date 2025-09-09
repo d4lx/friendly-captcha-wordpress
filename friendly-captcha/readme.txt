@@ -89,6 +89,7 @@ Please see our website at: [www.friendlycaptcha.com](https://friendlycaptcha.com
 * Forminator
 * Formidable
 * Avada Form Builder
+* Kadence Blocks
 
 If you see an integration that's missing, please [open a pull request](https://github.com/FriendlyCaptcha/friendly-captcha-wordpress)
 

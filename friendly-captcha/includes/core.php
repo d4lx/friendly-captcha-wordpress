@@ -238,6 +238,12 @@ class FriendlyCaptcha_Plugin
             "entry" => "divi/divi.php",
             "settings_description" => "Enable Friendly Captcha and replace ReCaptcha in the <a href=\"https://www.elegantthemes.com/gallery/divi//\" target=\"_blank\">Divi Theme</a> contact form.<br /><strong>Important:</strong> Please choose 'FriendlyCaptcha verification' as spam protection in each individual Divi contact form.",
         ),
+        array(
+            "name" => "Kadence Blocks",
+            "slug" => 'kadence-blocks',
+            "entry" => "kadence-blocks/kadence-blocks.php",
+            "settings_description" => "Enable Friendly Captcha for <a href=\"https://wordpress.org/plugins/kadence-blocks/\" target=\"_blank\">Kadence Blocks</a>.",
+        ),
     );
 
     public function init()
